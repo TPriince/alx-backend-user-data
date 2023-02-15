@@ -1,1 +1,1 @@
-## User authentication service
+## ALX Backend User Data project
